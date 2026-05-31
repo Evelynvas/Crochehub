@@ -33,7 +33,7 @@ O design do CrochêHub foi fundamentado em pilares de empatia e acessibilidade, 
 
 ## 🛠️ Competências e Ferramentas
 
-* **UX/UI Design** (Figma / Adobe XD)
+* **UX/UI Design** (Figma)
 * **Gestão de Projetos**
 * **Pesquisa com Usuário & Arquitetura de Informação**
 
